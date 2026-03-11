@@ -31,8 +31,6 @@ I am using this website to share my Github projects and blogs I have written.
 * An article covering statistics generation in Spark applications using AccumulatorV2 [link](https://medium.com/@royashcenazi/producing-custom-statistics-in-spark-applications-using-accumulatorv2-14b11019e17b)
 
 
-#### CV
- * press [here](CV.pdf)
 
 
 #### Extras
